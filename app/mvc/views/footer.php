@@ -25,7 +25,8 @@
 	</div>
 	<!-- end #wrapper2 -->
 	<div id="footer">
-		<p>Copyright(c) 2015 vincentperrin.com</p>
+        <p>Copyright(c) 2015 vincentperrin.com</p>
+        <p class="credits">Template credit: Pluralism from www.freecsstemplates.org</p>
 		<p><?php // reuse for the slogan or vp link echo $footerLinks; ?></p>
 	</div>
 </div>

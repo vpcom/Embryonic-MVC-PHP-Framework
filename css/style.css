@@ -67,6 +67,7 @@ p, ul, ol {
 ul, ol {
 	margin-left: 3em;
 }
+
 /*
 dl.list1 {
 	margin: 0;
@@ -106,6 +107,10 @@ ul.list2 li.nopad {
 blockquote {
 	margin-left: 3em;
 	margin-right: 3em;
+}
+
+.credits {
+	font-size: 0.8em;
 }
 
 code {

@@ -26,7 +26,7 @@
 <h3>How it works</h3>
 
   <img src="<?=$urlPrefix . REL_IMG_FOLDER?>mvc.png" />
-  Courtesy: code.tutsplus.com
+  <blockquote class="credits">Courtesy: image from code.tutsplus.com</blockquote>
 <br>
 <br>
 <p>
