@@ -1,0 +1,33 @@
+#space-container {
+    width: 100%;
+    min-width: 500px;
+    margin: 0 auto;
+}
+
+.card {
+    border: 1px solid #333;
+    display : flex;
+    text-align: center;
+}
+
+.card span {
+    clear:left;
+    line-height: 30px;
+    display: block;
+}
+
+.card div {
+    padding: 10px;
+}
+
+.card-head {
+    width: 200px; 
+    background-color: #69AFEC;
+    color: #000;
+}
+
+.description {
+    width: 100%;
+    min-width: 250px;
+    text-align: justify;
+}
